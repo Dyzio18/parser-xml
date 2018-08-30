@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<P4_HTMLs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="opencms://system/modules/com.p4/schemas/P4_HTML.xsd">
+  <P4_HTML language="en">
+    <Title><![CDATA[Połączenia po LTE]]></Title>
+    <html name="html0">
+      <links>
+        <link name="link0" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[section-turn-on]]></anchor>
+        </link>
+        <link name="link1" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/head_360_01.gif]]></target>
+          <uuid>1e7d7207-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link2" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/head_360_02_loop.gif]]></target>
+          <uuid>1edafb5b-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link3" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/hero_chevron_bg.png]]></target>
+          <uuid>1ef699af-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link4" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[section-why-worth-it]]></anchor>
+        </link>
+        <link name="link5" internal="false" type="A">
+          <target><![CDATA[https://www.play.pl/uslugi/naprawa-telefonu]]></target>
+        </link>
+        <link name="link6" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/icon-fix-phone.png]]></target>
+          <uuid>1f35ecab-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link7" internal="false" type="A">
+          <target><![CDATA[https://www.play.pl/uslugi/naprawa-telefonu/]]></target>
+        </link>
+        <link name="link8" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link9" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link10" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/icon-web-security.png]]></target>
+          <uuid>1f898aff-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link11" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link12" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link13" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/icon-navigation.png]]></target>
+          <uuid>1f57cc93-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link14" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link15" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link16" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/icon-audioteka.png]]></target>
+          <uuid>1f263537-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link17" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link18" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link19" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/icon-legimi.png]]></target>
+          <uuid>1f48b15f-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link20" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link21" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link22" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/icon-phone.png]]></target>
+          <uuid>1f79374b-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link23" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/icon-only-in-360.png]]></target>
+          <uuid>1f667297-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link24" internal="false" type="A">
+          <target><![CDATA[https://www.play.pl/oferta/przejdz-do-play/play-abonament/]]></target>
+        </link>
+        <link name="link25" internal="false" type="A">
+          <target><![CDATA[https://play.google.com/store/apps/details]]></target>
+          <query><![CDATA[id=com.play.play24m&referrer=utm_source%3DPrime%26utm_medium%3DLP%26utm_campaign%3DPrime_B2C%26anid%3Dadmob]]></query>
+        </link>
+        <link name="link26" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/google_play.png]]></target>
+          <uuid>1e4b6583-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link27" internal="false" type="A">
+          <target><![CDATA[https://itunes.apple.com/app/apple-store/id498473583]]></target>
+          <query><![CDATA[pt=965961&ct=Prime_B2C&mt=8]]></query>
+        </link>
+        <link name="link28" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/app_store.png]]></target>
+          <uuid>1e1b54cb-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link29" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/tel_1.png]]></target>
+          <uuid>200c0087-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link30" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link31" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/tel_2.png]]></target>
+          <uuid>2021363b-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link32" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/tel_3.png]]></target>
+          <uuid>2032262f-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link33" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link34" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link35" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link36" internal="true" type="A">
+          <target><![CDATA[]]></target>
+          <anchor><![CDATA[]]></anchor>
+        </link>
+        <link name="link37" internal="false" type="A">
+          <target><![CDATA[http://nicnieprzepada.pl/pdf/Cennik-Oferty-Play-na-Kartę-odNOWA.pdf]]></target>
+        </link>
+        <link name="link38" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/blob.png]]></target>
+          <uuid>1e35938f-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+        <link name="link39" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-270-oferta-rodzinna-ze-znizka-cinema-city/modal/p24-small.png]]></target>
+          <uuid>8aa49dae-067e-11e8-89df-005056aa7d54</uuid>
+        </link>
+        <link name="link40" internal="false" type="A">
+          <target><![CDATA[https://play.google.com/store/apps/details]]></target>
+          <query><![CDATA[id=com.play.play24m&referrer=utm_source%3DPrime%26utm_medium%3DLP%26utm_campaign%3DPrime_B2C%26anid%3Dadmob]]></query>
+        </link>
+        <link name="link41" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-270-oferta-rodzinna-ze-znizka-cinema-city/modal/googleplay.png]]></target>
+          <uuid>8a92271a-067e-11e8-89df-005056aa7d54</uuid>
+        </link>
+        <link name="link42" internal="false" type="A">
+          <target><![CDATA[https://itunes.apple.com/app/apple-store/id498473583]]></target>
+          <query><![CDATA[pt=965961&ct=Prime_B2C&mt=8]]></query>
+        </link>
+        <link name="link43" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-270-oferta-rodzinna-ze-znizka-cinema-city/modal/appstore.png]]></target>
+          <uuid>8a6b3e26-067e-11e8-89df-005056aa7d54</uuid>
+        </link>
+        <link name="link44" internal="true" type="IMG">
+          <target><![CDATA[/system/modules/com.p4/resources/images/custom/lp/PLAYPL-1272-prime/modal_tel.png]]></target>
+          <uuid>1fb3a847-5a6e-11e8-89a7-005056aa7d54</uuid>
+        </link>
+      </links>
+      <content><![CDATA[
+	          <section id="section-head" class="hero-section text-center">
+    <div class="row align-middle relative margin-top-40">
+        <div class="columns small-12 medium-shrink text-left small-text-center small-order-2 large-order-1 small-no-margin-top margin-top-100">
+            <h1 class="text-violet hero-leading-text text-bold text-semi-tall">Play360</h1>
+            <p class="lead">Naprawa wyświetlacza i telefonu, ochrona internetu <br class="show-for-large">
+                oraz  dostęp do nawigacji, audiobooków <br class="show-for-large">
+                i e-booków</p>
+            <p class="h4 margin-bottom-50">Już od <span class="text-bold hero-price text-purple">20</span><span
+                    class="h3 text-bold text-purple"> zł</span> /mies.</p>
+            <a href="%(link0)" class="text-white button large btn-check small-margin-bottom-40" data-slide-button="">Wybierz
+                dla siebie <span class="icon-chevron-right"><!-- --></span></a>
+        </div>
+        <div class="columns small-12 medium-expand small-order-1 large-order-2 relative">
+            <img id="logo-animated" class="logo-animated" src="%(link1)" alt="Animowane logo Play360">
+            <img style="display: none" src="%(link2)" alt="Animowane logo Play360">
+        </div>
+    </div>
+    <img class="chevron-bg" src="%(link3)" alt="">
+    <a href="%(link4)" id="button-hero" class="btn-chevron" data-scroll-to>
+        <span class="icon-chevron-down mini"><!-- --></span>
+    </a>
+</section>
+    <section id="section-why-worth-it" class="section-why-worth-it">
+    <div class="row align-middle align-center text-white text-center">
+        <div class="columns small-12">
+            <h2 class="section-name margin-bottom-60">Dlaczego warto?</h2>
+        </div>
+        <div class="columns small-12">
+            <div class="row align-center">
+                <div class="columns small-12 medium-4">
+                    <div class="info-box-wrapper">
+                        <div class="icon-wrapper">
+                            <span class="icon-phone-broken-screen xlarge"><!-- --></span>
+                        </div>
+                        <p class="info-text">Gdy pęknie Ci wyświetlacz<br>
+                            w telefonie – naprawimy go</p>
+                    </div>
+                </div>
+                <div class="columns small-12 medium-4">
+                    <div class="info-box-wrapper">
+                        <div class="icon-wrapper">
+                            <span class="icon-audiobook3 xlarge"><!-- --></span>
+                        </div>
+                        <p class="info-text">W podróży posłuchasz<br>
+                            audiobooków lub poczytasz ebooki</p>
+                    </div>
+                </div>
+                <div class="columns small-12 medium-4">
+                    <div class="info-box-wrapper">
+                        <div class="icon-wrapper">
+                            <span class="icon-phone-location xlarge"><!-- --></span>
+                        </div>
+                        <p class="info-text">Dzięki nawigacji dotrzesz<br>
+                            do celu szybko i bezpiecznie</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <section id="section-whats-inside" class="section-whats-inside">
+    <div class="row align-middle align-center">
+        <div class="columns small-12">
+            <h2 class="text-center section-name">Co jest w zestawie <span class="text-bold">Play360?</span></h2>
+        </div>
+        <div class="columns small-11 medium-8">
+            <ul class="accordion accordion-prime" data-custom-accordion>
+                <h3 class="h2">
+                    <div class="icon-wrapper">
+                        <span class="icon-safety-shield medium text-violet"><!-- --></span>
+                    </div>
+                    Ochrona telefonu
+                </h3>
+                <li class="accordion-item benefit-box" data-accordion-item>
+    <a class="accordion-title" href="%(link5)" data-item-trigger>
+        <span data-replace-tag="div" class="row">
+            <span data-replace-tag="div" class="columns small-shrink medium-1">
+                <img alt="icon-fix-phone" src="%(link6)">
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-expand">
+                <span data-replace-tag="h4" class="accordion-item-header text-regular text-violet">Naprawa telefonu</span>
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-shrink small-text-left text-right text-short">
+                <span class="price diagonal-stroke bold diagonal-stroke-black text-bold text-darken-gray">15&nbspzł</span>
+                <br>
+                <span data-replace-tag="small">cena <br class="show-for-medium">poza zestawem</span>
+            </span>
+        </span>
+    </a>
+    <div>
+        <div class="row">
+            <div class="columns medium-offset-1 medium-9">
+                <div class="accordion-content-wrapper">
+                    <p>Pęknięty wyświetlacz ? Awaria na gwarancji ? Zapewniamy szybką i wygodną naprawę Twojego telefonu. Co roku otrzymasz aż 800 zł na naprawę wyświetlacza wraz obudową, przyciskami i aparatem fotograficznym oraz
+					<span class="accordion-content accordion-toggable-part" data-item-content> na usuniecie skutków zatopienia lub zalania wodą.
+					Jeśli trzeba, na czas naprawy udostępnimy Ci telefon zastępczy. Dostarczy go kurier, zabierając jednocześnie urządzenie do naprawy.
+<span class="separator">Usługę świadczy Play we współpracy z Digital Care Sp. z o. o. <a class="link" href="%(link7)">Sprawdź szczegóły</a></span></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="columns">
+            <a href="%(link8)" data-item-chevron>
+                <span class="icon-chevron-down"><!-- --></span>
+            </a>
+        </div>
+    </div>
+</li><li class="accordion-item benefit-box" data-accordion-item>
+    <a class="accordion-title" href="%(link9)" data-item-trigger>
+        <span data-replace-tag="div" class="row">
+            <span data-replace-tag="div" class="columns small-shrink medium-1">
+                <img alt="icon-web-security" src="%(link10)">
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-expand">
+                <span data-replace-tag="h4" class="accordion-item-header text-regular text-violet">Ochrona internetu w telefonie</span>
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-shrink small-text-left text-right text-short">
+                <span class="price diagonal-stroke bold diagonal-stroke-black text-bold text-darken-gray">2,99&nbspzł</span>
+                <br>
+                <span data-replace-tag="small">cena <br class="show-for-medium">poza zestawem</span>
+            </span>
+        </span>
+    </a>
+    <div>
+        <div class="row">
+            <div class="columns medium-offset-1 medium-9">
+                <div class="accordion-content-wrapper">
+                    <p>Zabezpieczymy zdjęcia, dane i hasła na Twoim telefonie. Dzięki temu bez obaw zrobisz zakupy online i zapłacisz rachunki. A jeśli zdarzy Ci się zgubić telefon <span class="accordion-content accordion-toggable-part" data-item-content>– łatwo go zablokujesz. <span class="separator">Usługę świadczy P4 Sp. z o.o. Aplikacja Ochrona Internetu dostępna jest na system operacyjny Android i iOS. Do korzystania z usługi niezbędna jest transmisja danych.</span></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="columns">
+            <a href="%(link11)" data-item-chevron>
+                <span class="icon-chevron-down"><!-- --></span>
+            </a>
+        </div>
+    </div>
+</li>
+                <h3 class="h2">
+                    <div class="icon-wrapper">
+                        <span class="icon-star-circle medium text-violet"><!-- --></span>
+                    </div>
+                    Ulubione aplikacje
+                </h3>
+                <li class="accordion-item benefit-box" data-accordion-item>
+    <a class="accordion-title" href="%(link12)" data-item-trigger>
+        <span data-replace-tag="div" class="row">
+            <span data-replace-tag="div" class="columns small-shrink medium-1">
+                <img alt="icon-navigation" src="%(link13)">
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-expand">
+                <span data-replace-tag="h4" class="accordion-item-header text-regular text-violet">Nawigacja Play</span>
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-shrink small-text-left text-right text-short">
+                <span class="price diagonal-stroke bold diagonal-stroke-black text-bold text-darken-gray">13,99&nbspzł</span>
+                <br>
+                <span data-replace-tag="small">cena <br class="show-for-medium">poza zestawem</span>
+            </span>
+        </span>
+    </a>
+    <div>
+        <div class="row">
+            <div class="columns medium-offset-1 medium-9">
+                <div class="accordion-content-wrapper">
+                    <p>Ułatwimy Ci podróżowanie! Dostarczymy zawsze aktualne mapy, które pomogą Ci ominąć korki i utrudnienia, a dzięki ostrzeżeniom CB unikniesz mandatów. <span class="accordion-content accordion-toggable-part" data-item-content><span class="separator">Usługę świadczy P4 Sp. z o.o. Aplikacja Nawigacja Play jest dostępna dla systemów Android i iOS. Do korzystania z usługi niezbędna jest transmisja danych.</span></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="columns">
+            <a href="%(link14)" data-item-chevron>
+                <span class="icon-chevron-down"><!-- --></span>
+            </a>
+        </div>
+    </div>
+</li><li class="accordion-item benefit-box" data-accordion-item>
+    <a class="accordion-title" href="%(link15)" data-item-trigger>
+        <span data-replace-tag="div" class="row">
+            <span data-replace-tag="div" class="columns small-shrink medium-1">
+                <img alt="icon-audioteka" src="%(link16)">
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-expand">
+                <span data-replace-tag="h4" class="accordion-item-header text-regular text-violet">Audiobooki w Play</span>
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-shrink small-text-left text-right text-short">
+                <span class="price diagonal-stroke bold diagonal-stroke-black text-bold text-darken-gray">24,99&nbspzł</span>
+                <br>
+                <span data-replace-tag="small">cena <br class="show-for-medium">poza zestawem</span>
+            </span>
+        </span>
+    </a>
+    <div>
+        <div class="row">
+            <div class="columns medium-offset-1 medium-9">
+                <div class="accordion-content-wrapper">
+                    <p>Posłuchaj książek czytanych przez najlepszych polskich aktorów. Przygotowaliśmy dla Ciebie tysiące tytułów, możesz słuchać jak chcesz, <span class="accordion-content accordion-toggable-part" data-item-content> gdzie chcesz i kiedy chcesz.<span class="separator">Usługę świadczy Audioteka. Aplikacja Lecton jest dostępna dla systemów Android i iOS Do korzystania z usługi niezbędna jest transmisja danych.</span></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="columns">
+            <a href="%(link17)" data-item-chevron>
+                <span class="icon-chevron-down"><!-- --></span>
+            </a>
+        </div>
+    </div>
+</li><li class="accordion-item benefit-box" data-accordion-item>
+    <a class="accordion-title" href="%(link18)" data-item-trigger>
+        <span data-replace-tag="div" class="row">
+            <span data-replace-tag="div" class="columns small-shrink medium-1">
+                <img alt="icon-legimi" src="%(link19)">
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-expand">
+                <span data-replace-tag="h4" class="accordion-item-header text-regular text-violet">Czytelnia w Play</span>
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-shrink small-text-left text-right text-short">
+                <span class="price diagonal-stroke bold diagonal-stroke-black text-bold text-darken-gray">19,99&nbspzł</span>
+                <br>
+                <span data-replace-tag="small">cena <br class="show-for-medium">poza zestawem</span>
+            </span>
+        </span>
+    </a>
+    <div>
+        <div class="row">
+            <div class="columns medium-offset-1 medium-9">
+                <div class="accordion-content-wrapper">
+                    <p>Zadbamy o Twój wolny czas. Dajemy Ci dostęp do tysięcy e-książek. Czytaj wygodnie na ulubionym urządzeniu (telefonie, tablecie, komputerze lub czytniku) <span class="accordion-content accordion-toggable-part" data-item-content> i nie przejmuj się niczym - zapamiętamy za Ciebie, gdzie skończyłeś.<span class="separator">Usługę świadczy Legimi. Aplikacja jest dostępna dla systemów Android i iOS. Do korzystania z usługi niezbędna jest transmisja danych.</span></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="columns">
+            <a href="%(link20)" data-item-chevron>
+                <span class="icon-chevron-down"><!-- --></span>
+            </a>
+        </div>
+    </div>
+</li>
+                <h3 class="h2">
+                    <div class="icon-wrapper">
+                        <span class="icon-person-circle medium text-violet"><!-- --></span>
+                    </div>
+                    Wyjątkowa obsługa
+                </h3>
+                <li class="accordion-item benefit-box" data-accordion-item>
+    <a class="accordion-title" href="%(link21)" data-item-trigger>
+        <span data-replace-tag="div" class="row">
+            <span data-replace-tag="div" class="columns small-shrink medium-1">
+                <img alt="icon-phone" src="%(link22)">
+            </span>
+            <span data-replace-tag="div" class="columns small-12 medium-expand">
+                <span data-replace-tag="h4" class="accordion-item-header text-regular text-violet">Priorytetowe połączenie z konsultantem</span>
+            </span>
+            <span data-replace-tag="div" class="columns small-3 medium-offset-1 medium-2 text-right relative">
+                <img alt="icon-only-in-360" class="special-img" src="%(link23)">
+            </span>
+        </span>
+    </a>
+    <div>
+        <div class="row">
+            <div class="columns medium-offset-1 medium-9">
+                <div class="accordion-content-wrapper">
+                    <p>Jeśli zdarzy Ci się dzwonić do Play, potraktujemy Twoje połączenie priorytetowo. Wystarczy, że zadzwonisz ze swojego numeru.</span> <!-- <span class="accordion-content accordion-toggable-part" data-item-content> -->
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- div class="row text-center">
+        <div class="columns">
+            <a href="%(link24)" data-item-chevron>
+                <span class="icon-chevron-down"><!-x-></span>
+            </a>
+        </div>
+    </div -->
+</li>
+            </ul>
+        </div>
+        <div class="small-11 medium-8">
+            <p class="text-short text-right">Łączna wartość wszystkich usług to <br class="hide-for-medium"><span class="price-disclaimer-crossed diagonal-stroke bold diagonal-stroke-black text-bold text-darken-gray"> 77&nbspzł </span>/mies.
+                <span class="custom-tooltip" data-custom-tooltip>
+    <span class="tooltip-trigger icon-info" tabindex="0"><!-- --></span>
+    <span class="tooltip-content">77 zł to suma opłat (w tym szacunkowych) za korzystanie z pojedynczych usług (lub podobnych). Opłata za usługi poza Play360 może obejmować również nielimitowany transfer danych dla usługi. </span>
+</span>
+            </p>
+            <p class="text-short text-right margin-bottom-60">W zestawie <span class="text-bold">Play360</span> masz je już od<br class="hide-for-medium"> <span class="price-disclaimer text-bold text-purple"> 20&nbspzł </span>/mies.</p>
+        </div>
+    </div>
+</section>
+    <section id="section-turn-on" class="section section-turn-on">
+    <div class="section-content-wrapper">
+        <div class="columns small-12">
+            <h2 class="text-center text-white section-name margin-bottom-70">Wybierz Play360 dla siebie</span></h2>
+        </div>
+        <div class="row align-middle align-center">
+            <div class="small-12 medium-5 large-4 columns">
+                <div class="offer-tile text-center">
+                    <div class="offer-element">
+                        <h3 class="h5 text-bold">Przez 24 miesiące</h3>
+                        <p class="h5 margin-top-60 margin-bottom-80"><span class="tile-price text-bold text-purple">20 zł </span> /mies.</p>
+                    </div>
+                    <a href="%(link24)" class="text-white button large btn-tile">Zobacz ofertę
+                        <span class="icon-chevron-right"><!-- --></span>
+                    </a>
+                    <br>
+                    <small>Przy podpisaniu nowej umowy lub przedłużeniu</small>
+                </div>
+            </div>
+            <div class="small-12 medium-5 large-4 columns">
+                <div class="offer-tile text-center">
+                    <div class="offer-element">
+                        <h3 class="h5"><span class="text-bold">Bez zobowiązania</span><br>Włącz i wyłącz kiedy chcesz</h3>
+                        <p class="h5"><span class="tile-price text-bold text-purple">25 zł </span> /mies.</p>
+                        <small class="tile-disclaimer relative margin-bottom-30">Cena uwzględnia rabat <span class="text-bold">5zł/mies.</span> na zawsze przy aktywacji przez aplikację <span class="text-bold">Play24</span>.</small>
+                    </div>
+                    <a href="%(link25)"><img alt="Google Play" src="%(link26)"></a>
+                        <br class="hide-for-large">
+                    <a href="%(link27)"><img alt="App Store" src="%(link28)"></a>
+                    <br>
+                    <small>W trakcie trwania umowy</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <section id="section-how-activate" class="section section-how-activate">
+    <div class="align-middle align-center text-center">
+        <div class="columns small-12">
+            <h2 class="section-name">Play360 bez zobowiązania - jak włączyć?</h2>
+        </div>
+        <div class="row align-center">
+            <div class="columns small-12 large-4">
+                <div class="row">
+                    <div class="columns small-12 text-center">
+                        <img alt="tel_1" class="step_1_img" src="%(link29)">
+                    </div>
+                    <div class="columns small-12">
+                        <h3 class="h6 text-semi-tall">Zaloguj się do aplikacji Play24.<br>Wybierz Play360</h3>
+                    </div>
+                    <div class="columns small-12">
+                        <p class="no-margin">Nie masz aplikacji Play24?</p>
+                        <a href="%(link30)" class="link" data-open-modal="prime-modal" data-set-attrs="aria-haspopup|true|aria-controls|prime-modal">Dowiedz się więcej</a>
+                    </div>
+                </div>
+            </div>
+            <div class="columns small-12 large-4">
+                <div class="row">
+                    <div class="columns small-12 text-center">
+                        <img alt="tel_2" class="step_2_img" src="%(link31)">
+                    </div>
+                    <div class="columns small-12">
+                        <h3 class="h6 text-semi-tall">Przejdź do aktywacji Play360<br> wybierając przycisk <span class="text-bold">Włącz</span></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="columns small-12 large-4">
+                <div class="row">
+                    <div class="columns small-12 text-center">
+                        <img alt="tel_3" class="step_3_img" src="%(link32)">
+                    </div>
+                    <div class="columns small-12">
+                        <h3 class="h6 text-semi-tall">Po aktywacji <span class="text-bold">pobierz i zaloguj się</span>
+                            <br>do aplikacji zawartych w Play360</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <section class="section faq-section no-padding-bottom">
+    <!-- FAQ-->
+    <div class="row align-center">
+        <div class="column small-12 medium-10 large-8">
+            <h2 class="section-name text-center">Najczęściej zadawane pytania</h2>
+            <ul class="accordion" data-custom-accordion>
+  <li class="accordion-item" data-accordion-item>
+    <a class="accordion-title" href="%(link33)" data-item-trigger data-faq="1">
+      <span class="icon-chevron-down"><!-- --></span> W jaki sposób płacę za Play360?
+    </a>
+    <div class="accordion-content" data-item-content>
+      <p>
+        Opłata doliczymy do Twojego rachunku za abonament w Play.
+      </p>
+    </div>
+  </li>
+  <li class="accordion-item" data-accordion-item>
+    <a class="accordion-title" href="%(link34)" data-item-trigger data-faq="2">
+      <span class="icon-chevron-down"><!-- --></span> Czy mogę aktywować Play360, jeśli korzystam już z&nbsp;podobnych lub tych samych usług?
+    </a>
+    <div class="accordion-content" data-item-content>
+      <p>Tak. Jeżeli aktywujesz Play360, wyłączymy Tobie podobne usługi, z których obecnie korzystasz. 
+	  Twoje konto w danej aplikacji (np. w aplikacji do nawigacji) zostanie przeniesione do Play360 tak, że nie poczujesz różnicy.</p>
+    </div>
+  </li>
+  <li class="accordion-item" data-accordion-item>
+    <a class="accordion-title" href="%(link35)" data-item-trigger data-faq="3">
+      <span class="icon-chevron-down"><!-- --></span> W jaki sposób zacząć korzystać z&nbsp;aplikacji dostępnych w&nbsp;Play360?
+    </a>
+    <div class="accordion-content" data-item-content>
+      <p>
+        Z wszystkich usług możesz korzystać zaraz po aktywacji pakietu Play360. Zaloguj się do Play24 –  znajdziesz tam wszystkie informacje o&nbsp;usługach i&nbsp;aplikacjach. 
+		Jeśli kupiłeś telefon z&nbsp;umową w Play, dostępne w&nbsp;ramach Play360 aplikacje będą już zainstalowane  w&nbsp;Twoim telefonie. 
+		Jeśli masz inny telefon pobierz je GooglePlay lub AppStore. Wystarczy, że zalogujesz się do nich swoim numerem telefonu i&nbsp;gotowe! 
+		Słuchaj audiobooków bez limitu z&nbsp;aplikacją Lecton, czytaj e-książki z&nbsp;aplkacją Legimi, oraz omijaj korki z&nbsp;Nawigacją Play!
+      </p>
+    </div>
+  </li>
+</ul>
+        </div>
+    </div>
+</section>
+    <section class="section doc-section no-padding-top">
+    <!-- documents-->
+    <div class="row align-center">
+        <div class="column small-12 medium-10 large-8">
+            <h2 class="section-name text-center">Dokumenty</h2>
+            <ul class="accordion" data-custom-accordion>
+                <li class="accordion-item" data-accordion-item>
+                    <a class="accordion-title" href="%(link36)" data-item-trigger>
+                        <span class="icon-chevron-down"><!-- --></span>Regulamin oferty
+                    </a>
+                    <div class="accordion-content" data-item-content>
+                        <ul class="list-with-icons">
+                            <li>
+  <a target="_blank" href="%(link37)">
+    <span class="icon-pdf"><!-- --></span>
+    <span class="sr-only">Plik do pobrania</span>
+    Cennik Oferty Play na Kartę odNOWA (PDF)
+  </a>
+</li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="row align-center">
+        <div class="column small-12 medium-10 large-8">
+    <p>Opłata miesięczna 20 zł przy umowie na 24 miesiące. Play360 jest dostępne dla wybranych taryf abonamentowych. <br/>Play360 nie obejmuje transmisji danych. Naprawa telefonu do 800 zł rocznie.</p>
+        </div></div>
+</section>
+    <img alt="blob" class="blob show-for-large" src="%(link38)">
+	
+<!-- modal -->	
+<div id="prime-modal" class="custom-modal medium-size" data-custom-modal data-set-attrs="role|dialog|aria-labelledby|prime-modal">
+
+    <div class="modal-inner modal-animated cinema-city-modal">
+
+        <div class="modal-header margin-top-20 medium-up-no-margin">
+            <button class="button link close-modal" data-close-modal type="button">
+                <span class="sr-only">Zamknij warstwę</span>
+                <span class="icon-close" data-set-attrs="aria-hidden|true"><!-- --></span>
+            </button>
+
+            <div class="row">
+                <div class="column small-12 text-center">
+                    <h2 class="no-margin-top">
+                        <img alt="p24-small" src="%(link39)">
+                        Zarządzaj swoim kontem w Play24
+                    </h2>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="modal-body margin-top-20 margin-bottom-25">
+            <div class="row">
+                <div class="columns small-12 medium-offset-1 medium-5">
+                    <ul class="list-styled list-square">
+                        <li class="h6 text-light">sprawdzaj ilość dostępnych środków</li>
+                        <li class="h6 text-light">płać wygodnie za faktury</li>
+                        <li class="h6 text-light">zarządzaj pakietami i usługami</li>
+                    </ul>
+                    <div class="modal-img-wrapper small-text-center">
+                        <a href="%(link40)">
+                            <img class="margin-bottom-15 margin-top-15" src="%(link41)" alt="Przejdź do Google Play">
+                        </a>
+                        <br>
+                        <a href="%(link42)">
+                            <img src="%(link43)" alt="Przejdź do App Store">
+                        </a>
+                    </div>
+                </div>
+                <div class="columns small-12 medium-6 text-center margin-bottom-20">
+                    <img src="%(link44)" alt="Okno Play24">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+		  ]]></content>
+    </html>
+  </P4_HTML>
+</P4_HTMLs>
