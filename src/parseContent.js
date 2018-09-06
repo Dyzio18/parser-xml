@@ -22,13 +22,20 @@ const replaceLinks = (content, links) => {
         let linkSrc = linkTag;
         if (elem.elements[0].elements && elem.elements[0].elements[0]) {
             linkSrc = elem.elements[0].elements[0].cdata;
+
+            if(elem.elements[1] && elem.elements[1].name === "query"){
+                linkSrc += "?" + elem.elements[1].elements[0].cdata;
+                console.log(linkSrc);
+            }
+
         } else if (elem.attributes.internal === "true") {
             let anchorLink = false;
             if (elem.elements[1].elements) {
                 anchorLink = elem.elements[1].elements[0].cdata;
             }
             linkSrc = anchorLink ? "#" + anchorLink : '#';
-        }
+        }    
+
         let reg = new RegExp("%\\(" + linkTag + "\\)", "g");
         result = result.replace(reg, linkSrc);
     })

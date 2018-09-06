@@ -1,25 +1,13 @@
+# Parser XML
 
+Parser for specyfic type of xml files. [TOOL]
 
 ## Usage
-
-Substitute `PROJECT-NAME` for your project name.
-
-Clone the repository
-
-```sh
- git clone https://github.com/lifenautjoe/webpack-starter-basic PROJECT-NAME
- cd PROJECT-NAME
-```
 
 Install npm dependencies
 
 ```sh
  npm install 
-```
-
-Run the kickstart command
-```sh
-npm run kickstart
 ```
 
 **After the project has been kickstarted**
@@ -43,4 +31,4 @@ npm run preview
 
 
 ## Credits  
-[demo website](https://lifenautjoe.github.io/webpack-starter-basic/) 
+[https://lifenautjoe.github.io/webpack-starter-basic/](https://lifenautjoe.github.io/webpack-starter-basic/) 
