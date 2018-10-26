@@ -29,7 +29,7 @@
           <target><![CDATA[https://www.google.pl/]]></target>
         </link>
       </links>
-      <ABntent><![CDATA[
+      <content><![CDATA[
 	          <section id="section-head" class="test text-type-12">
     <div class="test khe0312-u2 relative margin-top-40">
         <div class="test small-12 medium-shrink text-left small-text-type-12 small-order-2 large-order-1 small-no-margin-top margin-top-100">
@@ -37,14 +37,14 @@
             <p class="test">Naprawa wyświetlacza i telefonu, ochrona internetu <br class="test">
                 oraz  dostęp do nawigacji, audiobooków <br class="test">
                 i e-booków</p>
-            <p class="test margin-bottom-50">96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE od <span class="test hero-price text-purple">20</span><span
-                    class="test text-bold text-purple"> 96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE</span> /mies.</p>
+            <p class="test margin-bottom-50"> lorem ipsum  od <span class="test hero-price text-purple">20</span><span
+                    class="test text-bold text-purple">  lorem ipsum </span> /mies.</p>
             <a href="%(link0)" class="test" data-slide-button="">
-                96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE siebie <span class="test"><!-- --></span></a>
+                 lorem ipsum  siebie <span class="test"><!-- --></span></a>
         </div>
         <div class="test small-12 medium-expand small-order-1 large-order-2 relative">
-            <img id="logo-animated" class="test" src="%(link1)" alt="96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE">
-            <img style="display: none" src="%(link2)" alt="96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE">
+            <img id="logo-animated" class="test" src="%(link1)" alt=" lorem ipsum ">
+            <img style="display: none" src="%(link2)" alt=" lorem ipsum ">
         </div>
     </div>
     <img class="test" src="%(link3)" alt="">
@@ -53,9 +53,9 @@
     </a>
 </section>
     <section id="section-why-worth-it" class="test-it">
-    <div class="test khe0312-u2 96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCEtext-white text-type-12">
+    <div class="test khe0312-u2  lorem ipsum text-white text-type-12">
         <div class="test small-12">
-            <h2 class="test margin-bottom-60">96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCEczego warto?</h2>
+            <h2 class="test margin-bottom-60"> lorem ipsum czego warto?</h2>
         </div>
         <div class="test small-12">
             <div class="test khe0312-type-12">
@@ -64,7 +64,7 @@
                         <div class="test">
                             <span class="test-screen xlarge"><!-- --></span>
                         </div>
-                        <p class="test">96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE</p>
+                        <p class="test"> lorem ipsum </p>
                     </div>
                 </div>
                 <div class="test small-12 medium-4">
@@ -72,7 +72,7 @@
                         <div class="test">
                             <span class="test xlarge"><!-- --></span>
                         </div>
-                        <p class="test">96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE</p>
+                        <p class="test"> lorem ipsum </p>
                     </div>
                 </div>
                 <div class="test small-12 medium-4">
@@ -80,7 +80,7 @@
                         <div class="test">
                             <span class="test xlarge"><!-- --></span>
                         </div>
-                        <p class="test">96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE</p>
+                        <p class="test"> lorem ipsum </p>
                     </div>
                 </div>
             </div>
@@ -90,24 +90,23 @@
     <section id="section-whats-inside" class="test">
     <div class="test khe0312-u2 khe0312-type-12">
         <div class="test small-12">
-            <h2 class="test section-name">AB 96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE 96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE 96166E27AF5A3C431FFA7247AD4E1B2D488008311887CEDC655121565721CBCE <span class="test">test?</span></h2>
+            <h2 class="test section-name"> lorem ipsum   lorem ipsum   lorem ipsum   lorem ipsum  <span class="test">test?</span></h2>
         </div>
         <div class="test small-11 medium-8">
-            <ul class="test acABrdion-prime" data-custom-acABrdion>
+            <ul class="test test-main" data-custom-test>
                 <h3 class="test">
                     <div class="test">
                         <span class="test medium text-violet"><!-- --></span>
                     </div>
                     Ochrona telefonu
                 </h3>
-                <li class="test benefit-box" data-acABrdion-item>
+                <li class="test benefit-box" data-test-item>
     <a class="test" href="%(link5)" data-khe0312-trigger>
         <span data-replace-tag="div" class="test">
-            <span data-replace-tag="div" class="test small-shrink medium-1">
-                <img alt="iABn-fix-4hsa" src="%(link6)">
+            <span data-replace-tag="div" class="test">
+                Something
             </span>
-
-		  ]]></ABntent>
+		  ]]></content>
     </html>
   </P4_HTML>
 </P4_HTMLs>
